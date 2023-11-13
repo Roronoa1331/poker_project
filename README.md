@@ -1,1 +1,1 @@
-# poker_project
+# Poker capstone project
