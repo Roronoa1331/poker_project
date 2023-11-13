@@ -1,8 +1,0 @@
-Grading at Mon 06 Nov 2023 06:32:16 PM UTC
-Compiling deck.c
-Compiling cards.c
-Linking cards.o deck.o deck-c4.o and the grader's .o file
-gcc: error: deck-c4.o: No such file or directory
-Could not link your code!
-
-Overall Grade: FAILED
